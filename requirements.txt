@@ -1,0 +1,26 @@
+
+streamlit
+python-dotenv
+
+# ✅ Groq LLM API
+groq
+
+# ✅ YouTube Transcript Fetch
+#youtube-transcript-api==1.2.4
+
+# ✅ Article / Documentation Extraction
+newspaper3k
+beautifulsoup4
+requests
+
+# ✅ Fix for newspaper3k + lxml clean error
+lxml
+lxml_html_clean
+
+# ✅ OCR (Images inside documentation/articles)
+pytesseract
+pillow
+opencv-python
+
+# ✅ URL + networking utilities
+urllib3
